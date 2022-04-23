@@ -39,6 +39,7 @@ docker-compose up
 ## Contributors
 
 - [Jose Emilio Labra Gayo](http://labra.weso.es)
+- [Daniela González Nilo](http://github.com/dgonzalezn)
 
 ## Credits
 

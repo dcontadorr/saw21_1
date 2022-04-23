@@ -1,7 +1,6 @@
 const express = require('express');
 const path = require('path');
 const https = require('https');
-const querystring = require("querystring")
 
 const app = express();
 const root = path.resolve(__dirname, '..');
@@ -17,7 +16,8 @@ app.get('/api/entities', (req, res) =>
   res.send({
     entities:
       ['Q2887',
-        'Q33986'
+        'Q33986',
+        'Q42'
       ]
   })
 );
